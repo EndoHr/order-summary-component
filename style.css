@@ -52,7 +52,9 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  background-color: hsl(225, 100%, 94%);
+  background-image: url("images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
